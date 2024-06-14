@@ -1,0 +1,6 @@
+.vs/
+Lawyer.DomainEntities/obj/Debug/
+Lawyer.Repository/obj/Debug/
+Lawyer.Service/obj/Debug/
+Lawyer.WebAPI/obj/Debug/
+
